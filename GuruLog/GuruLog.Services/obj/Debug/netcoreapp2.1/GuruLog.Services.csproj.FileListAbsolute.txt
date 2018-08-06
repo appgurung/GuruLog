@@ -11,3 +11,4 @@ C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.RazorTargetAssemblyInfo.cache
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.dll
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.csprojAssemblyReference.cache

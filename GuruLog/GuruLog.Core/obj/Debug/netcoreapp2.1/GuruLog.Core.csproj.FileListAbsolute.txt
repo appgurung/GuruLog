@@ -6,5 +6,4 @@ C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Cor
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.AssemblyInfo.cs
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.dll
 C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.pdb
-C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.runtimeconfig.json
-C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.runtimeconfig.dev.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.csprojAssemblyReference.cache

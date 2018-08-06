@@ -13029,6 +13029,7 @@
     ".NETCoreApp,Version=v2.1": [
       "FluentValidation.AspNetCore >= 7.6.104",
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.EntityFrameworkCore >= 2.1.1",
       "Microsoft.Extensions.Logging.Log4Net.AspNetCore >= 2.2.4",
       "Microsoft.NETCore.App >= 2.1.0",
       "ServiceStack.Redis.Core >= 5.1.0",
@@ -13085,6 +13086,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
             "target": "Package",

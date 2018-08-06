@@ -1,0 +1,10 @@
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.deps.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.AssemblyInfoInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.AssemblyInfo.cs
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\obj\Debug\netcoreapp2.1\GuruLog.Core.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.runtimeconfig.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Core\bin\Debug\netcoreapp2.1\GuruLog.Core.runtimeconfig.dev.json

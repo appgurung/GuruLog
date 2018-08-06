@@ -1,0 +1,14 @@
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\GuruLog.UnitTest.deps.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\GuruLog.UnitTest.runtimeconfig.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\GuruLog.UnitTest.runtimeconfig.dev.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\GuruLog.UnitTest.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\bin\Debug\netcoreapp2.1\GuruLog.UnitTest.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.csprojAssemblyReference.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.AssemblyInfoInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.AssemblyInfo.cs
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.UnitTest\obj\Debug\netcoreapp2.1\GuruLog.UnitTest.pdb

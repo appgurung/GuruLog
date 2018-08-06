@@ -1,0 +1,13 @@
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\bin\Debug\netcoreapp2.1\GuruLog.Services.deps.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\bin\Debug\netcoreapp2.1\GuruLog.Services.runtimeconfig.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\bin\Debug\netcoreapp2.1\GuruLog.Services.runtimeconfig.dev.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\bin\Debug\netcoreapp2.1\GuruLog.Services.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\bin\Debug\netcoreapp2.1\GuruLog.Services.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.RazorAssemblyInfo.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.RazorAssemblyInfo.cs
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.AssemblyInfoInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.AssemblyInfo.cs
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.RazorTargetAssemblyInfo.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Services\obj\Debug\netcoreapp2.1\GuruLog.Services.pdb

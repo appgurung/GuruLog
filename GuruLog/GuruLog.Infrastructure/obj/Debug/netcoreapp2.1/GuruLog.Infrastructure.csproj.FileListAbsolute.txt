@@ -1,0 +1,8 @@
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\bin\Debug\netcoreapp2.1\GuruLog.Infrastructure.deps.json
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\bin\Debug\netcoreapp2.1\GuruLog.Infrastructure.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\bin\Debug\netcoreapp2.1\GuruLog.Infrastructure.pdb
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\obj\Debug\netcoreapp2.1\GuruLog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\obj\Debug\netcoreapp2.1\GuruLog.Infrastructure.AssemblyInfoInputs.cache
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\obj\Debug\netcoreapp2.1\GuruLog.Infrastructure.AssemblyInfo.cs
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\obj\Debug\netcoreapp2.1\GuruLog.Infrastructure.dll
+C:\SwiftBox\Git\GuruLog\GuruLog\GuruLog.Infrastructure\obj\Debug\netcoreapp2.1\GuruLog.Infrastructure.pdb

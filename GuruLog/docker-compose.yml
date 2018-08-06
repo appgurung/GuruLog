@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gurulog.console:
+    image: ${DOCKER_REGISTRY}gurulogconsole
+    build:
+      context: .
+      dockerfile: GuruLog.Console\Dockerfile

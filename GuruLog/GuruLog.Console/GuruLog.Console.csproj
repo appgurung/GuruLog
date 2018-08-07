@@ -15,4 +15,10 @@
     <PackageReference Include="Unity.NetCore" Version="4.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GuruLog.Core\GuruLog.Core.csproj" />
+    <ProjectReference Include="..\GuruLog.Infrastructure\GuruLog.Infrastructure.csproj" />
+    <ProjectReference Include="..\GuruLog.Services\GuruLog.Services.csproj" />
+  </ItemGroup>
+
 </Project>

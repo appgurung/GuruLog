@@ -3,21 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.Console", "GuruLog.Console\GuruLog.Console.csproj", "{B3916ED8-9172-4F6D-A999-7E780364B25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruLog.Console", "GuruLog.Console\GuruLog.Console.csproj", "{B3916ED8-9172-4F6D-A999-7E780364B25F}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{055E0F66-79B9-4C27-B73D-CA4EEDF2F910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.UnitTest", "GuruLog.UnitTest\GuruLog.UnitTest.csproj", "{8C1A2778-8F55-4EDF-A40F-EBB2C2AB28E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruLog.UnitTest", "GuruLog.UnitTest\GuruLog.UnitTest.csproj", "{8C1A2778-8F55-4EDF-A40F-EBB2C2AB28E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.Core", "GuruLog.Core\GuruLog.Core.csproj", "{64A03BA9-5008-4416-B3A1-3DF0C78C275E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruLog.Core", "GuruLog.Core\GuruLog.Core.csproj", "{64A03BA9-5008-4416-B3A1-3DF0C78C275E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.Infrastructure", "GuruLog.Infrastructure\GuruLog.Infrastructure.csproj", "{32B0F4C2-48C2-4053-9739-C7E933EBDCB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruLog.Infrastructure", "GuruLog.Infrastructure\GuruLog.Infrastructure.csproj", "{32B0F4C2-48C2-4053-9739-C7E933EBDCB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.Services", "GuruLog.Services\GuruLog.Services.csproj", "{34AF1E3D-5064-458F-BC30-23DC261D2106}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.AzureWebJob", "GuruLog.AzureWebJob\GuruLog.AzureWebJob.csproj", "{C81A84A9-0BF2-4D8F-9894-DD6AB49666F0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruLog.AzureFunctions", "GuruLog.AzureFunctions\GuruLog.AzureFunctions.csproj", "{DD216BB2-2C17-4C4A-960B-2B69966D551F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruLog.Services", "GuruLog.Services\GuruLog.Services.csproj", "{34AF1E3D-5064-458F-BC30-23DC261D2106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,14 +45,6 @@ Global
 		{34AF1E3D-5064-458F-BC30-23DC261D2106}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34AF1E3D-5064-458F-BC30-23DC261D2106}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34AF1E3D-5064-458F-BC30-23DC261D2106}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C81A84A9-0BF2-4D8F-9894-DD6AB49666F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C81A84A9-0BF2-4D8F-9894-DD6AB49666F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C81A84A9-0BF2-4D8F-9894-DD6AB49666F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C81A84A9-0BF2-4D8F-9894-DD6AB49666F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD216BB2-2C17-4C4A-960B-2B69966D551F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD216BB2-2C17-4C4A-960B-2B69966D551F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD216BB2-2C17-4C4A-960B-2B69966D551F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD216BB2-2C17-4C4A-960B-2B69966D551F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

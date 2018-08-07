@@ -12,4 +12,9 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.2.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GuruLog.Core\GuruLog.Core.csproj" />
+    <ProjectReference Include="..\GuruLog.Services\GuruLog.Services.csproj" />
+  </ItemGroup>
+
 </Project>

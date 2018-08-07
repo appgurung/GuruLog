@@ -4921,6 +4921,46 @@
           "lib/netstandard2.0/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
           "lib/netstandard2.0/Microsoft.Practices.Unity.dll": {}
         }
+      },
+      "GuruLog.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "FluentValidation.AspNetCore": "7.6.104",
+          "Microsoft.EntityFrameworkCore": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/GuruLog.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuruLog.Core.dll": {}
+        }
+      },
+      "GuruLog.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GuruLog.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuruLog.Infrastructure.dll": {}
+        }
+      },
+      "GuruLog.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "GuruLog.Core": "1.0.0",
+          "GuruLog.Infrastructure": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/GuruLog.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuruLog.Services.dll": {}
+        }
       }
     }
   },
@@ -13023,11 +13063,29 @@
         "unity.netcore.4.0.3.nupkg.sha512",
         "unity.netcore.nuspec"
       ]
+    },
+    "GuruLog.Core/1.0.0": {
+      "type": "project",
+      "path": "../GuruLog.Core/GuruLog.Core.csproj",
+      "msbuildProject": "../GuruLog.Core/GuruLog.Core.csproj"
+    },
+    "GuruLog.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../GuruLog.Infrastructure/GuruLog.Infrastructure.csproj",
+      "msbuildProject": "../GuruLog.Infrastructure/GuruLog.Infrastructure.csproj"
+    },
+    "GuruLog.Services/1.0.0": {
+      "type": "project",
+      "path": "../GuruLog.Services/GuruLog.Services.csproj",
+      "msbuildProject": "../GuruLog.Services/GuruLog.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "FluentValidation.AspNetCore >= 7.6.104",
+      "GuruLog.Core >= 1.0.0",
+      "GuruLog.Infrastructure >= 1.0.0",
+      "GuruLog.Services >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.EntityFrameworkCore >= 2.1.1",
       "Microsoft.Extensions.Logging.Log4Net.AspNetCore >= 2.2.4",
@@ -13065,7 +13123,17 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Core\\GuruLog.Core.csproj": {
+              "projectPath": "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Core\\GuruLog.Core.csproj"
+            },
+            "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Infrastructure\\GuruLog.Infrastructure.csproj": {
+              "projectPath": "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Infrastructure\\GuruLog.Infrastructure.csproj"
+            },
+            "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Services\\GuruLog.Services.csproj": {
+              "projectPath": "C:\\SwiftBox\\Git\\GuruLog\\GuruLog\\GuruLog.Services\\GuruLog.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
